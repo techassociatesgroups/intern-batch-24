@@ -1,0 +1,32 @@
+Deffo Technology Internship - Day One Activity
+
+Welcome to Deffo Technology! This README file provides the details for your first-day activity, designed to introduce you to some foundational skills in web development, including HTML, CSS, JavaScript, and media queries for responsive design.
+
+📋 Task Overview
+Today, your objective is to recreate a given webpage template using HTML, CSS, and JavaScript. This exercise will help you understand the basics of web structure and styling, while also introducing you to media queries to make the webpage responsive on different devices.
+
+🛠 Instructions
+
+1) Template Recreation: Use the provided image as a reference to build the web page from scratch. Focus on replicating the layout, colors, fonts, and any visual styling present in the image.
+
+2) Responsive Design with Media Queries: Make sure your design is responsive. Use CSS media queries to adjust the layout for various screen sizes, such as mobile, tablet, and desktop. This will ensure that the page looks and functions well on any device. If you are new to media queries, here’s a quick introduction:
+
+Example:
+css
+Copy code
+@media (max-width: 600px) {
+  /* Styles for mobile view */
+}
+
+3) Submission: Once you have completed the task,save your work in the Git repository 
+Ensure that all files (HTML, CSS, JavaScript) are well-organized and clearly named.
+
+📚 Resources for Media Queries
+If you're unfamiliar with media queries, these resources can help:
+>MDN Web Docs on Media Queries ( https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries )
+
+
+💡 Tips
+Keep your CSS organized and structured for readability.
+Test your page across multiple screen sizes (you can use browser DevTools for this).
+Don’t hesitate to reach out if you have questions or need clarification.
